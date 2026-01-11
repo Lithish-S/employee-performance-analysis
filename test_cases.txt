@@ -1,0 +1,8 @@
+Test Case 1:
+Verify average performance score calculation.
+
+Test Case 2:
+Verify employee classification into High, Medium, and Low performance categories.
+
+Test Case 3:
+Validate correct count of employees per category.
